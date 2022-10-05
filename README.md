@@ -10,7 +10,7 @@
 
 
 
-Love mathematics, generally have practical skills, can think statistically, are open to development and enjoy learning, have professional experience in Finance, retail banking and E-Commerce, are interest Data Science and Artificial Intelligence.
+Love mathematics, generally have practical skills, can think statistically, are open to development and enjoy learning, have professional experience in Finance, Personal Banking and E-Commerce, are interest Data Science and Artificial Intelligence.
 <p><img align="right" src="https://komarev.com/ghpvc/?username=kerimcanars&style=flat-square&color=red" alt=""/> </p>
 
 ## [My Licenses and Certifications](https://www.linkedin.com/in/kerimcanarslan/details/certifications/)
