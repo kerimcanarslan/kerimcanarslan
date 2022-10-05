@@ -1,4 +1,15 @@
 
+<h1 align="center">Hello, I'm Kerim 👋</h1>  
+
+
+<!--
+**kerimcanarslan/kerimcanarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
+
+
+
 Love mathematics, generally have practical skills, can think statistically, are open to development and enjoy learning, have professional experience in Finance, retail banking and E-Commerce, are interest Data Science and Artificial Intelligence.
 <p><img align="right" src="https://komarev.com/ghpvc/?username=kerimcanars&style=flat-square&color=red" alt=""/> </p>
 
