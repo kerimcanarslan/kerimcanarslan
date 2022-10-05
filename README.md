@@ -30,6 +30,7 @@ Love mathematics, generally have practical skills, can think statistically, are 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/kerimcanarslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kerimcanarslan/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/serdartafrali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serdartafrali" height="30" width="40" /></a>
+<a href="mailto:kerimcanarslan@outlook.com" target="blank"><img align="center" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" alt="Kerimcan Arslan" height="30" width="40" /></a>
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimcanarslan&show_icons=true&locale=en" alt="kerimcanarslan" /></p>
