@@ -1,36 +1,50 @@
 
-<h1 align="center">Hello, I'm Kerim 👋</h1>  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=▶▶+Hello!+👋+I'm+Kerimcan+Arslan◀&center=true&size=20">
+  </a>
+</h1>
+
+<h2 align="center">Jr. Data Scientist | Electrical & Electronics Engineer</h2>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kerimcanarslan&label=Profile%20views&color=blue&style=flat" alt="kerimcanarslan"> 
+  <img src="https://img.shields.io/twitter/follow/kerimcanars?style=social"> 
+  <img src="https://img.shields.io/github/followers/kerimcanarslan?style=social">
+</p>
+
+<h2 align="center">Love mathematics, generally have practical skills, can think statistically, are open to development and enjoy learning, have professional experience in Finance, Retail Banking and E-Commerce, are interest Data Science and Artificial Intelligence</h2>
 
 
-<!--
-**kerimcanarslan/kerimcanarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h2 align="center"> 🦾 Skills 🦾 </h2>
+
+### **Python**
+- Web Scraping: Selenium, Beautiful Soup
+- Visualization: Matplotlib, Seaborn
+- Machine Learning: TensorFlow, Scikit-learn
+- Data Science: Pandas, Numpy
+### **Java**
+- I Just Started Learning
 
 
+<h2 align="center">👽 GitHub Stats 👽</h2>
+<br>
+<p align="center">
+<a href="https://github.com/kerimcanarslan">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kerimcanarslan&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimcanarslan&layout=compact&langs_count=16&theme=react"/></div></p>
+
+<h2 align="center">👩‍💻 IDEs & Code Editor:</h2>
+
+<p align="center"> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799645-5dbf1f03-2ab8-4899-a7cf-d1bfeb11080e.png" alt="pycharm" width="40" height="40"/> </a> 
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800198-f2d28bc9-bd6b-465c-bd34-53f271eab436.png" alt="jupyter" width="40" height="40"/> </a> 
+  <a href="https://www.eclipse.org/" target="_blank"> <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" width="40" height="40"/> </a></p>
+  
+  <h2 align="center">💬 Connect with me:</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kerimcanarslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kerimcanarslan" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png"  height="30" width="40" /></a>
+</p>
 
 
-
-Love mathematics, generally have practical skills, can think statistically, are open to development and enjoy learning, have professional experience in Finance, Personal Banking and E-Commerce, are interest Data Science and Artificial Intelligence.
-<p><img align="right" src="https://komarev.com/ghpvc/?username=kerimcanars&style=flat-square&color=red" alt=""/> </p>
-
-## [My Licenses and Certifications](https://www.linkedin.com/in/kerimcanarslan/details/certifications/)
-## [My Skills](https://www.linkedin.com/in/kerimcanarslan/details/skills/)
-
----
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.20220902200836890.svg" alt="MatLab" width="40" height="40"/> </a> </p>
-
----
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/kerimcanarslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kerimcanarslan/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/serdartafrali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serdartafrali" height="30" width="40" /></a>
-<a href="mailto:kerimcanarslan@outlook.com" target="blank"><img align="center" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" alt="Kerimcan Arslan" height="30" width="40" /></a>
-
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimcanarslan&show_icons=true&locale=en" alt="kerimcanarslan" /></p>
