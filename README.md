@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/kerimcanarslan?style=social">
 </p>
 
-<h2 align="center">Love mathematics, generally have practical skills, can think statistically, are open to development and enjoy learning, have professional experience in Finance, Retail Banking and E-Commerce, are interest Data Science and Artificial Intelligence</h2>
+<h2 align="center">As a Electronics Engineer I love mathematics, generally have practical skills, can think analytically, cares about development, enjoys learning, have experience in Finance, Retail Banking and E-Commerce, and I'm interested in Data Science and Artificial Intelligence. </h2>
 
 
 <h2 align="center"> 🦾 Skills 🦾 </h2>
