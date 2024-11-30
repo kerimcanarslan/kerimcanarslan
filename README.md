@@ -5,14 +5,16 @@
   </a>
 </h1>
 
-<h2 align="center">Jr. Data Scientist | Electrical & Electronics Engineer</h2>
+<h2 align="center">Data Scientist | Electrical & Electronics Engineer</h2>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kerimcanarslan&label=Profile%20views&color=blue&style=flat" alt="kerimcanarslan"> 
   <img src="https://img.shields.io/twitter/follow/kerimcanars?style=social"> 
   <img src="https://img.shields.io/github/followers/kerimcanarslan?style=social">
 </p>
 
-<h2 align="center">As a Electronics Engineer I love mathematics, generally have practical skills, can think analytically, cares about development, enjoys learning, have experience in Finance, Retail Banking and E-Commerce, and I'm interested in Data Science and Artificial Intelligence. </h2>
+<h2 align="center">As analytics specialist is working in data science and optimization field. Experienced in analytical ML projects in
+Finance, Banking and E-Commerce industry. Work on needs such as credit risk, risk management, pricing,
+optimization, demand forecasting, churn and propencity. </h2>
 
 
 <h2 align="center"> 🦾 Skills 🦾 </h2>
