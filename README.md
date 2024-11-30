@@ -20,12 +20,16 @@ optimization, demand forecasting, churn and propencity. </h2>
 <h2 align="center"> 🦾 Skills 🦾 </h2>
 
 ### **Python**
-- Web Scraping: Selenium, Beautiful Soup
-- Visualization: Matplotlib, Seaborn
-- Machine Learning: TensorFlow, Scikit-learn
-- Data Science: Pandas, Numpy
-### **Java**
-- I Just Started Learning
+
+Skills: Python(sklearn, numpy, pandas, selenium, catboost, sasctl etc.), Git, SQL, SAS E.G, SAS Miner, SAS Viya
+Interests: Data Science, Data Engineering, MLOps, Finance, Risk Management, Data-DWH Modeling
+
+- Web Scraping
+- Visualization
+- Machine Learning & AI
+- Data Analytisc
+- DWH Modeling
+- MLOps
 
 
 <h2 align="center">👽 GitHub Stats 👽</h2>
