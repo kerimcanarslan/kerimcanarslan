@@ -24,12 +24,12 @@ optimization, demand forecasting, churn and propencity. </h2>
 Skills: Python(sklearn, numpy, pandas, selenium, catboost, sasctl etc.), Git, SQL, SAS E.G, SAS Miner, SAS Viya
 Interests: Data Science, Data Engineering, MLOps, Finance, Risk Management, Data-DWH Modeling
 
-- Web Scraping
-- Visualization
 - Machine Learning & AI
 - Data Analytisc
 - DWH Modeling
 - MLOps
+- Web Scraping
+- Visualization
 
 
 <h2 align="center">👽 GitHub Stats 👽</h2>
